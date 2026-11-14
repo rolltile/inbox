@@ -1,0 +1,13 @@
+.env
+.env.local
+.git
+.gitignore
+__pycache__
+*.pyc
+.pytest_cache
+.venv
+venv
+telnyx-sms-inbox.zip
+*.zip
+README.md
+tests/
